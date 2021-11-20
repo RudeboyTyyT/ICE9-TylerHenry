@@ -1,3 +1,5 @@
+// Name: Tyler Henry
+// Date: November 19th
 package ca.durhamcollege;
 
 import java.util.Scanner;
